@@ -67,7 +67,12 @@ You need to build your deliverable, test it(automatically), check security, chec
 
 ## The dream
 I dream that, one day, there will be a tool, call it "Silver Bullet", that is open source, which uses open source data and tooling, to do this for you.
-Integrate it in any pipeline, for any language, and you have a nice dashboard that says: "This user UX flow can be improved so and so". "Alarm: dependency X.Y.z has a critical vulnerability, update to X.Y.z+1". "This code smells like a code smell, and here are some suggestions to fix it". "This code is not covered by tests, and here are some suggestions to add tests".
-If you want to, feel free to do so. You have my blessing.
-But be aware. 
-The dev(il) is in the details, and you will be it's maintainer.
+Integrate it in any pipeline, for any language, and you have a nice dashboard that says: 
+- "This user UX flow can be improved so and so". 
+- "Alarm: dependency X.Y.z has a critical vulnerability, update to X.Y.z+1". 
+- "This code smells like a code smell, and here are some suggestions to fix it". 
+- "This code is not covered by tests, and here are some suggestions to add tests".
+
+If you want to, feel free to do so. You have my blessing.  
+But be aware.   
+_The dev(il) is in the details, and you will be its maintainer._
